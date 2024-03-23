@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5a685d94-17b0-42be-892a-c320fd7be354"
+      }
+    },
+    "owner": "mhamitay"
   }
 }
